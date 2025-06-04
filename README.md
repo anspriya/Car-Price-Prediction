@@ -3,14 +3,6 @@
 This project aims to predict the prices of used cars based on various features such as brand, model, year, fuel type, and more. 
 Utilizing machine learning techniques, it provides an interactive web application where users can input car details and receive an estimated price.
 
-**📂 Project Structure**
-
-Car-Price-Prediction/
-├── app.py                 # Flask application script
-├── Car_Price_Model.ipynb  # Jupyter Notebook for data analysis and model training
-├── Cardetails.csv         # Dataset containing car details
-├── model.pkl              # Serialized machine learning model
-
 **🧠 Features** 
 
 -->Data Analysis: Exploratory Data Analysis (EDA) performed using pandas and matplotlib to understand data distributions and relationships.
